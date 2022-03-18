@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexis Ocampo</h1>
 <h3 align="center">Fullstack Developer (Javascript) from Mexico 🇲🇽</h3>
 
-- 🔭 I’m currently working on [MIKENIEVA.COM](https://mikenieva.com)
-
 - 🌱 I’m currently learning **Agile Methodologies**
 
 - 💬 Ask me about **JavaScript**
